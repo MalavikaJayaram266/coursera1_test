@@ -43,6 +43,9 @@ h1 {
     width: calc(33.33% - 20px); /* Three columns in a row with spacing */
     margin-right: 20px; /* Add spacing between columns */
     margin-bottom: 20px; /* Add space between sections */
+    background-color: #E0E0E0; /* Set background color for sections */
+    border: 1px solid #000; /* Add 1px black border to sections */
+    padding: 10px; /* Add padding to sections */
 }
 
 /* Desktop View (992px and above) */
